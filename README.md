@@ -103,4 +103,7 @@
 
 ### WEBSITE
 
-- [pumpfun.bot](https://t.me/SolBump_bot)
+- [Telegram](https://t.me/SolBump_bot)
+
+
+ ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBOT-web3%2Fpump_fun_sniper_bot%2F&s=17&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
